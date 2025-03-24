@@ -1,5 +1,5 @@
 function sendWebhook() {
-    const webhookURL = "YOUR_WEBHOOK_URL_HERE";
+    const webhookURL = "https://discord.com/api/webhooks/1126659239721574420/xSDSdjjaeRJ_r1woZoUgDuriGpZQTy9ePIFAqLQnly7cu3GQOdlzR4zxX_06ubcW89CC";
 
     const payload = {
         "embeds": [{
